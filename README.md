@@ -24,7 +24,7 @@
 - When the local systems have secure network access, they use patient information in the database but they can download and use local copies of patient records when they are disconnected.
 
  **Project Link**-  https://vasantha2002.github.io/project/
- **Static web app**-https://agreeable-rock-00485e600.3.azurestaticapps.net
+ **Static web app**-https://happy-rock-042edc710.3.azurestaticapps.net
  **Project demo video link**- https://youtu.be/oDMjJqMqKhI
  
 ### Goals:
